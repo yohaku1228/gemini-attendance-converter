@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.pdf
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.jpeg
